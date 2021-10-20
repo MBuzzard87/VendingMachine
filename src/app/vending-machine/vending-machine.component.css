@@ -1,0 +1,26 @@
+body {
+    margin: 2% 10%;
+    text-align: center;
+}
+
+
+img {
+    
+    height: 200px;
+    width: 250px;
+    
+}
+
+.container {    
+    background-color: rgba(166, 175, 175, 0.342);
+    padding: 5%;
+}
+
+.soda {
+    margin-bottom: 20px;
+}
+
+.fatty {
+    width: 130px;
+    
+}
